@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MuriloTranslationBluemix</string>
+    <string name="hint_from">Text to translate</string>
+    <string name="hint_to">Translated text</string>
+    <string name="btn_translate">TRANSLATE</string>
+    <string name="label">Demo for the Translation API of IBM-Bluemix.</string>
+</resources>
